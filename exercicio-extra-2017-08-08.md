@@ -8,11 +8,11 @@
 # nginx
 # histórico de versões nginx 
 # 
-nginx-1.13.4	
-nginx-1.12.1	
-nginx-1.13.2
-nginx-1.13.15	
-nginx-1.13.0
+#nginx-1.13.4	
+#nginx-1.12.1	
+#nginx-1.13.2
+#nginx-1.13.15	
+#nginx-1.13.0
 
 2017-04-12	
 nginx-1.12.0 stable version has been released, incorporating new features and bug fixes from the 1.11.x mainline branch - including variables support and other improvements in the stream module, HTTP/2 fixes, support for multiple SSL certificates of different types, improved dynamic modules support, and more.
