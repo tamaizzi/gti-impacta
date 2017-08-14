@@ -113,22 +113,22 @@
 # June 1, 2017	WordPress 4.8 Release Candidate 2 -> https://wordpress.org/news/2017/06/wordpress-4-8-release-candidate-2/
 # May 25, 2017	WordPress 4.8 Release Candidate
 # May 23, 2017	WordPress 4.8 Beta 2
-May 16, 2017	WordPress 4.7.5 Security and Maintenance Release
-May 13, 2017	WordPress 4.8 Beta 1
-April 20, 2017	WordPress 4.7.4 Maintenance Release
-March 6, 2017	WordPress 4.7.3 Security and Maintenance Release
-January 26, 2017	WordPress 4.7.2 Security Release
-January 11, 2017	WordPress 4.7.1 Security and Maintenance Release
-December 6, 2016	WordPress 4.7 “Vaughan”
-November 24, 2016	WordPress 4.7 Release Candidate
-November 16, 2016	WordPress 4.7 Beta 4
-November 11, 2016	WordPress 4.7 Beta 3
-November 4, 2016	WordPress 4.7 Beta 2
-October 28, 2016	WordPress 4.7 Beta 1
-September 7, 2016	WordPress 4.6.1 Security and Maintenance Release
-August 16, 2016	WordPress 4.6 “Pepper”
-August 11, 2016	WordPress 4.6 RC2
-July 27, 2016	WordPress 4.6 Release Candidate
+# May 16, 2017	WordPress 4.7.5 Security and Maintenance Release
+# May 13, 2017	WordPress 4.8 Beta 1
+# April 20, 2017	WordPress 4.7.4 Maintenance Release
+# March 6, 2017	WordPress 4.7.3 Security and Maintenance Release
+# January 26, 2017	WordPress 4.7.2 Security Release
+# January 11, 2017	WordPress 4.7.1 Security and Maintenance Release
+# December 6, 2016	WordPress 4.7 “Vaughan”
+# November 24, 2016	WordPress 4.7 Release Candidate
+# November 16, 2016	WordPress 4.7 Beta 4
+# November 11, 2016	WordPress 4.7 Beta 3
+# November 4, 2016	WordPress 4.7 Beta 2
+# October 28, 2016	WordPress 4.7 Beta 1
+# September 7, 2016	WordPress 4.6.1 Security and Maintenance Release
+# August 16, 2016	WordPress 4.6 “Pepper”
+# August 11, 2016	WordPress 4.6 RC2
+# July 27, 2016	WordPress 4.6 Release Candidate
 July 20, 2016	WordPress 4.6 Beta 4
 July 13, 2016	WordPress 4.6 Beta 3
 July 6, 2016	WordPress 4.6 Beta 2
@@ -320,4 +320,3 @@ June 9, 2003	WordPress 0.71 Now Available
 June 6, 2003	.71 Beta
 May 27, 2003	WordPress Now Available
 May 25, 2003	New Point Seven Beta
-Point Sever Beta Test 
